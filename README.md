@@ -67,7 +67,6 @@ npx skills add nuwa-skills/caodewang-skill
 - 福耀玻璃年报及公开发言
 - 曹德旺历年公开演讲与访谈
 - 《曹德旺：我的慈善观》相关报道
-- 详见 [references/research.md](references/research.md)
 
 ---
 
@@ -77,11 +76,7 @@ npx skills add nuwa-skills/caodewang-skill
 caodewang-skill/
 ├── SKILL.md                          # 核心 Skill 提示词
 ├── README.md                         # 项目说明
-├── LICENSE                           # MIT 许可证
-├── examples/
-│   └── demo-conversation.md          # 对话示例
-└── references/
-    └── research.md                   # 调研资料
+└── LICENSE                           # MIT 许可证
 ```
 
 ---
